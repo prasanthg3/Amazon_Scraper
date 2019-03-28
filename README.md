@@ -1,5 +1,5 @@
 # Amazon-Scraper #
-amazon_scraper.py can be used to scrape data from Amazon.in's search results.
+amazon_scraper.py can be used to scrape product data from Amazon.in's search results.
 ## List of details scraped ##
 
 * ASIN
